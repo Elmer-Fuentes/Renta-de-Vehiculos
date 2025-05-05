@@ -1,0 +1,1 @@
+create database renta_vehiculos;

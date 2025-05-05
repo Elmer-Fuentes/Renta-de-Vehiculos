@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Solución de SQL Server 2022">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="FUENTES-ELMER:Fuentes-Elmer\Fuentes Elmer">
+          <Created>2025-05-04T10:05:33.3447541-06:00</Created>
+          <Type>SQL</Type>
+          <Server>FUENTES-ELMER</Server>
+          <UserName />
+          <Authentication>Autenticación de Windows</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>False</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>False</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Create database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FUENTES-ELMER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FUENTES-ELMER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FUENTES-ELMER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FUENTES-ELMER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>create table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="delete vehiculos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FUENTES-ELMER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FUENTES-ELMER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>delete vehiculos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ins_vehiculos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FUENTES-ELMER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FUENTES-ELMER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ins_vehiculos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="update vehiculos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FUENTES-ELMER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FUENTES-ELMER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>update vehiculos.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
